@@ -11,8 +11,8 @@ It demonstrates the HTML and Git, Linux skills I have learned till now.
 
 ## Credits : 
 - learn full-stack web development for free :https://www.theodinproject.com/about
- shahi paneer recipe : https://www.allrecipes.com/recipe/212521/       shahi-paneer/
-- Shahi paneer image : pexels-dhiraj-jain-207743066-12737816.jpg
+- shahi paneer recipe : https://www.allrecipes.com/recipe/212521/shahi-paneer/
+- Shahi paneer image : Photo by dhiraj jain from Pexels: https://www.pexels.com/photo/delicious-spicy-meal-12737816/
 - Samosa recipe : https://www.allrecipes.com/recipe/237027/easy-baked-indian-samosas/
 - Samosa image : https://shorturl.at/jKpd5
 - Lemonade recipe : https://www.allrecipes.com/recipe/32385/best-lemonade-ever/
